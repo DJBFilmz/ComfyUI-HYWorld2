@@ -6,6 +6,7 @@ If you have the ability to make the project run faster—either by quantizing th
 
 - David J. Buchanan
 
+<br><br/>
 
 ComfyUI custom nodes for 3D scene reconstruction from a single image or panorama using [HY-World 2.0](https://huggingface.co/tencent/HY-World-2.0) (Tencent).
 
